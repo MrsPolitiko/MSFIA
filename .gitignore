@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+venv/
+*.spec
+
+# Installer logs
+debug.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code
+.vscode/
+
+# PyInstaller
+build/
+dist/
+
+# Local files
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Git
+*.orig
+
+# Ignore user data
+*.swp
+*.swo
+
+# Ignore compiled help files
+*.chm
+
+# Ignore Python virtual environments
+venv/
+.venv/
+
+# Ignore Windows Python store cache
+AppData/Local/Packages/PythonSoftwareFoundation.Python.*/LocalCache/
